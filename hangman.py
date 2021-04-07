@@ -1,4 +1,4 @@
-# Write your code here
+
 import random
 
 print("H A N G M A N")
